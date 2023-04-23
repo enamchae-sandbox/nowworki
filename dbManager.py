@@ -1,7 +1,7 @@
 import pymysql
 import hashlib
 from datetime import datetime
-# import mysql.connector
+import mysql.connector
 info = {'host':"sql9.freemysqlhosting.net",'user':"sql9610407",'password':"d8zViT6lIW",'database':"sql9610407",'port':3306}
 
 
