@@ -3,7 +3,7 @@ import json
 import time
 import os
 from typing import TypedDict
-# import dbManager as dbm
+import dbManager as dbm
 app = Flask(__name__)
 
 app.secret_key = "BqzK4uMKPH"
