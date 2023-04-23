@@ -1,4 +1,4 @@
-# import pymysql
+import pymysql
 import hashlib
 from datetime import datetime
 # import mysql.connector
